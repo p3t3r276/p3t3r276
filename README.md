@@ -1,6 +1,4 @@
-# Hi, I'm Khoa
-
-#### An experienced .NET engineer with 3 years of experience in .Net and Angular. Good expertise with Sharepoint and SQL database. Also familiar with Saas architecture on Azure Cloud
+# Le Minh Khoa
 
 <p align='center'>
 <!-- <img src='https://github-profile-trophy.vercel.app/?username=tynab&theme=dracula&column=6'> -->
