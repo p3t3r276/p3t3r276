@@ -18,9 +18,8 @@
 <img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=p3t3r276&theme=dracula' />
 </p>
 
-
+## Techonologies:
 <p algin='center'>
-    <h2>Techonologies:</h2>
     <img src='pics/HTML.png' width='44' title='HTML'>
     <img src='pics/CSS.png' width='44' title='CSS'>
     <img src='pics/JS.png' width='44' title='JavaScript'>
