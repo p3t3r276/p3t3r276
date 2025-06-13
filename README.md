@@ -53,5 +53,7 @@
     <img src='pics/NGINX.png' width='44' title='NGINX'>
     <img src='pics/visualstudio.jpg' width='44' title='Visual Studio'>
     <img src='pics/code.svg' width='44' title='Visual Studio Code'>
+    <img src='pics/ef-core-2.png' width='50' title='Entity Framework Core'>
+    <img src='pics/dapper.png' width='50' title='Dapper'>
 </p>
 
