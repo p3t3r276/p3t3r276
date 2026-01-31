@@ -73,7 +73,7 @@
     <img src='pics/drawio.png' width='44' title='draw.io'>
     <img src='pics/Figma.png' width='44' title='Figma'>
     <img src='pics/Git.png' width='44' title='Git'>
-    <img src='pics/Github.png' width='44' title='Github'>
+    <img src='pics/GitHub.png' width='44' title='Github'>
     <img src='pics/visualstudio.jpg' width='44' title='Visual Studio'>
     <img src='pics/code.svg' width='44' title='Visual Studio Code'>
 </p>
