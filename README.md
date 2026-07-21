@@ -16,6 +16,10 @@
 <img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=p3t3r276&theme=dracula' />
 </p>
 
+<p align='center'>
+<img src='https://leetcard.jacoblin.cool/p3t3r276?theme=dark&font=Karma&ext=heatmap'>
+</p>
+
 ## Technologies:
 
 ### Frontend
