@@ -16,22 +16,18 @@ Backend-focused software developer working across the .NET / ABP Framework ecosy
 </p>
 
 ## Stats
-
-<p align='center'>
-<img src='https://github-profile-trophy.vercel.app/?username=p3t3r276&theme=dracula&column=11' alt='GitHub trophies'>
-</p>
+<!-- comment because api is unavailable -->
+<!-- <p align='center'>
+<img src='https://github-profile-trophy.vercel.app/?username=p3t3r276&theme=dracula&column=push' alt='GitHub trophies'>
+</p> -->
 
 <p align='center'>
 <img src='https://github-widgetbox.vercel.app/api/profile?username=p3t3r276&data=followers,repositories,stars,commits' alt='GitHub profile summary'>
 </p>
 
 <p align='left'>
-<img align='left' width='49.7%' src='https://github-readme-stats.vercel.app/api?username=p3t3r276&count_private=true&show_icons=true&theme=dracula' alt='GitHub stats' />
-<img align='right' width='49.7%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=p3t3r276&theme=dracula&layout=compact' alt='Top languages' />
-</p>
-
-<p align='center'>
-<img src='https://streak-stats.demolab.com/?user=p3t3r276&theme=dracula' alt='GitHub streak' />
+<img algin='left' width='49.7%' src='https://readme-stats-fabio-vicente.vercel.app/api?username=p3t3r276&count_private=true&show_icons=true&theme=dracula' alt="Github stats" />
+<img algin='right' width='49.7%'  src='https://streak-stats.demolab.com/?user=p3t3r276&theme=dracula' alt='GitHub streak' />
 </p>
 
 <p align='center'>
