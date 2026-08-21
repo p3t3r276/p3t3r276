@@ -12,7 +12,7 @@ Backend-focused software developer working across the .NET / ABP Framework ecosy
 ## Connect with me
 
 <p align='center'>
-<a href='https://www.linkedin.com/in/peter-khoale'><img src='https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn'></a>
+<a href='https://www.linkedin.com/in/peter-khoale' target="_blank"><img src='https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn'></a>
 </p>
 
 ## Stats
